@@ -2,7 +2,7 @@
  "name": "Mi aplicación PWA",
  "short_name": "Mi PWA",
  "lang": "es-ES",
- "start_url": "/",
+ "start_url": "./index.html",
  "background_color": "#2C3E50",
  "theme_color": "#18BC9C",
  "display": "standalone",
